@@ -1,19 +1,16 @@
 ## First Page
 
 ### window size
-
-![image](https://github.com/user-attachments/assets/b803c55d-466c-453b-9ca6-49c37eccfb8a){: width="400" height="400"}
-
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyUxw7%2FbtsK7SbJyP3%2Fm9Cc9PC5BYIyjyAKPIPR1k%2Fimg.png" width="650" height="400"/>
 ### phone size (not working now ..)
-
-![image](https://github.com/user-attachments/assets/4b6ee178-e883-41ba-8f32-5e48e32ed73a){: width="400" height="400"}
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbA3NHG%2FbtsK7bbPTEO%2FkWdCzUKxIzKhSkbEBFnsa0%2Fimg.png" width="200" height="400"/>
 
 
 ## Second page
 
 ### window size
-![image](https://github.com/user-attachments/assets/99814734-6f08-4418-92cf-cbb1389dd6b4){: width="400" height="400"}
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbqxDKv%2FbtsK9lDKisx%2FsQ3mdeAkfNdhr4o6tc7060%2Fimg.png" width="200" height="400"/>
 
 ### phone size (not working now ..)
-![image](https://github.com/user-attachments/assets/41c7c3f1-0358-48c8-a29c-0ab72fb24adb){: width="400" height="400"}
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FsdhmN%2FbtsK6TP4aMP%2Fw4THFtt1fmNYiag1ZakQ6k%2Fimg.png" width="200" height="400"/>
 
