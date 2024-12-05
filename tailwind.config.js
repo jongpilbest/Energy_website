@@ -3,11 +3,21 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        Game:['Game']
+      },
+      backgroundImage:{
+        mario:"url('./assets/background.jpg')"
+      }
+    },
     fontSize: {
-      '8xl': '6.06rem',
-      'xs':'0.81rem'
+      '8xl': '12.5rem',
+      'xs':'0.8rem'
+    ,    fontWeight: {
+      medium: '580',
     }
+  }
   },
   plugins: [require('tailwindcss-font-inter')],
 
